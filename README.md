@@ -12,7 +12,13 @@ assistant — Claude Code, Cursor, Claude.ai, and more.
 
 ## Download
 
-Grab the latest `.dmg` from
+**Homebrew** (easiest):
+
+```sh
+brew install --cask anshuopinion/jompter/jompter
+```
+
+Or grab the latest `.dmg` from
 [**Releases → Latest**](https://github.com/anshuopinion/jompter-releases/releases/latest),
 or from **https://jompter.com**.
 
