@@ -20,7 +20,9 @@ or from **https://jompter.com**.
 |---|---|
 | `Jompter_*_aarch64.dmg` | Apple Silicon (M1/M2/M3/M4) |
 
-Requires macOS Big Sur or later. The app is signed and notarized by Apple.
+**Apple Silicon only.** Intel Macs are not supported — Jompter's on-device AI
+models don't ship for Intel, and Apple has sunset the platform. Requires an
+M-series Mac on macOS Big Sur or later. The app is signed and notarized by Apple.
 
 ## Install
 
