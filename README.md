@@ -7,7 +7,7 @@ AI-ready prompt for your coding assistant — Claude Code, Cursor, Claude.ai and
 the rest. Speech, language models and speech synthesis can all run **on your
 Mac**, offline.
 
-**Latest release: 0.2.4** · [see all releases](https://github.com/anshuopinion/jompter-releases/releases)
+**Latest release: 0.3.0** · [see all releases](https://github.com/anshuopinion/jompter-releases/releases)
 
 ## What it does
 
